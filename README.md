@@ -2,6 +2,7 @@
 A collection of electronics and embedded systems projects
 <br>
 built using the ESP32 platform.
+<br>
 
 ## IoT Home Automation
 
