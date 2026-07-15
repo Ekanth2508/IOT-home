@@ -58,7 +58,7 @@ Improved design using network time synchronization.
 - Reliable scheduled feeding
 <br>
 
-#### Impronements Over Version 1
+#### Improvements Over Version 1
 - No loss of schedule after power outages
 - Automatic recovery without user intervention
 - Accurate timekeeping through NTP servers
