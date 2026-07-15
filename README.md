@@ -1,5 +1,5 @@
-# IoT Home Automation</title>
+# IoT Home Automation
 <br>
-# Version One
+## Version One
 <br>
 Control of two low side switching relays in a timer circuit
