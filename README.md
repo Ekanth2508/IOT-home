@@ -1,5 +1,7 @@
-# Electronics
+# Electronics Projects
+A collection of electronics and embedded systems projects
 <br>
+built using the ESP32 platform.
 
 ## IoT Home Automation
 
@@ -7,11 +9,15 @@ Microcontroller: ESP32-C3
 <br>
 
 ### Version One
+A smart home automation system built around an existing timer-
+<br>
+switch circuit.
+<br>
+#### Features:
+- Scheduled feeding at programmed times
+- Servo-based dispensing mechanism
+- Standalone operation
 
-Control of two low side switching relays in a timer circuit.
-<br>
-Microcontroller: ESP32-C3
-<br>
 
 ## Fish Feeder
 
